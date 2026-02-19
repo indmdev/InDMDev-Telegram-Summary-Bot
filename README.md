@@ -1,5 +1,5 @@
 # InDMDev-TelePilot-MiniApp
-_One powerful dashboard to manage ALL your Telegram channels and groups. No limits. No coding. Just results.
+_Powerful AI Powered Telegram channels and groups manager. No limits. No coding. Just results.
 The Ultimate Telegram Channel & Group Manager.
 One powerful dashboard to manage ALL your Telegram channels and groups. No limits. No coding. Just results._
 
