@@ -24,23 +24,23 @@ One powerful dashboard to manage ALL your Telegram channels and groups. No limit
 
 📣 Smart Broadcasting:
 
-      • Broadcast to channels OR direct-message users
-      • 7 audience segments (All, VIP, Premium, Active, New, By Channel & more)
-      • Full media support — photos, videos, documents, polls
+      - ✅  Broadcast to channels OR direct-message users
+      - ✅ 7 audience segments (All, VIP, Premium, Active, New, By Channel & more)
+      - ✅ Full media support — photos, videos, documents, polls
 
 
 📅 Scheduled Posts:
 
-      • Schedule any message type to any channel
-      • Retry logic & engagement tracking
-      • Pin, unpin & auto-delete support
+      - ✅ Schedule any message type to any channel
+      - ✅ Retry logic & engagement tracking
+      - ✅ Pin, unpin & auto-delete support
 
 
 🤖 Custom Bot Commands:
 
-      • Create unlimited custom bot responses
-      • Admin-only commands & usage statistics
-      • Dynamic placeholders ({name}, {username}, {channel}...)
+      - ✅ Create unlimited custom bot responses
+      - ✅ Admin-only commands & usage statistics
+      - ✅ Dynamic placeholders ({name}, {username}, {channel}...)
 
 
 👋 Auto Messages:
@@ -52,87 +52,87 @@ One powerful dashboard to manage ALL your Telegram channels and groups. No limit
 
 🛡️ Moderation Suite:
 
-      • Prohibited words filter with auto-actions
-      • Custom auto-moderation rules
-      • Warning system & CAPTCHA verification for new members
+      - ✅ Prohibited words filter with auto-actions
+      - ✅ Custom auto-moderation rules
+      - ✅ Warning system & CAPTCHA verification for new members
 
 
 📋 Join Requests & Invite Links:
 
-      • Manage & auto-approve join requests
-      • Track invite link performance
-      • Custom approval workflows
+      - ✅ Manage & auto-approve join requests
+      - ✅ Track invite link performance
+      - ✅ Custom approval workflows
 
 
 📨 Contact Lists & Campaigns:
 
-      • Import contacts & organize into lists
-      • Bulk & drip campaign modes
-      • Bot mode (20 msg/sec) & Business mode via Telegram Business API
+      - ✅ Import contacts & organize into lists
+      - ✅ Bulk & drip campaign modes
+      - ✅ Bot mode (20 msg/sec) & Business mode via Telegram Business API
 
 
 📝 Templates & Media Library:
 
-      • Save & reuse message templates
-      • Centralized media library
-      • Quick access across all features
+      - ✅ Save & reuse message templates
+      - ✅ Centralized media library
+      - ✅ Quick access across all features
 
 
 📊 Analytics & Reports:
 
-      • Member growth & engagement charts
-      • Daily breakdown & trend analysis
-      • Exportable reports
+      - ✅ Member growth & engagement charts
+      - ✅ Daily breakdown & trend analysis
+      - ✅ Exportable reports
 
 
 🧠 AI-Powered (Gemini + ChatGPT):
 
-      • Chat summarization
-      • AI Q&A from channel history
-      • Smart content insights
+      - ✅ Chat summarization
+      - ✅ AI Q&A from channel history
+      - ✅ Smart content insights
 
 
 👨‍💼 Admin Management:
 
-      • 3 roles: Super Admin, Admin, Moderator
-      • Granular permissions per admin
-      • Two-Factor Authentication (2FA) & full audit log
+      - ✅ 3 roles: Super Admin, Admin, Moderator
+      - ✅ Granular permissions per admin
+      - ✅ Two-Factor Authentication (2FA) & full audit log
 
 
 💾 Backup & Restore:
 
-      • One-click JSON/SQL export
-      • Full database restore
-      • Never lose your data
+      - ✅ One-click JSON/SQL export
+      - ✅ Full database restore
+      - ✅ Never lose your data
 
 
 🔒 Enterprise-Grade Security:
 
-      • CSRF, XSS & SQL injection protection
-      • Rate limiting & account lockout
-      • IP tracking & session management
+      - ✅ CSRF, XSS & SQL injection protection
+      - ✅ Rate limiting & account lockout
+      - ✅ IP tracking & session management
 
 
 🌍 15 Languages Built-in:
 
-      • English, Arabic, Chinese, German, Spanish, French, Indonesian, Italian, Japanese, Georgian, Korean, Portuguese, Romanian, Russian, Turkish
-      • Full RTL support
-      • Auto-detects user language
+      - ✅ English, Arabic, Chinese, German, Spanish, French, Indonesian, Italian, Japanese, Georgian, Korean, Portuguese, Romanian, Russian, Turkish
+      - ✅ Full RTL support
+      - ✅ Auto-detects user language
 
 
 📱 Progressive Web App (PWA):
 
-      • Install on any device like a native app
-      • Offline support
-      • Home screen shortcuts
+      - ✅ Install on any device like a native app
+      - ✅ Offline support
+      - ✅ Home screen shortcuts
 
 
 ⚙️ Zero Dependencies:
 
-      • No Composer, no Node.js, no frameworks
-      • Works on any shared hosting (cPanel, Hostinger, Plesk)
-      • PHP 7.4+ & MySQL — that's all you need
-      • 5-minute setup wizard
+      - ✅ No Composer, no Node.js, no frameworks
+      - ✅ Works on any shared hosting (cPanel, Hostinger, Plesk)
+      - ✅ PHP 7.4+ & MySQL — that's all you need
+      - ✅ 5-minute setup wizard
 
 
  ━━━━━━━━━━━━━━━━━━
