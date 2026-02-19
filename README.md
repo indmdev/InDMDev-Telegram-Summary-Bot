@@ -10,16 +10,12 @@ One powerful dashboard to manage ALL your Telegram channels and groups. No limit
 📢 Channel & Group Management:
 
       - ✅ Manage unlimited channels & groups from one panel.
-      
       - ✅ Organize with custom categories.
-      
       - ✅ Per-channel settings & configurations.
 
 
 👥 Member Management:
 
       - ✅ Advanced search, filter & bulk operations.
-      
       - ✅ CSV export & member categories.
-      
       - ✅ Track activity, joins, leaves & growth.
