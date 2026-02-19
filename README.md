@@ -6,6 +6,7 @@ One powerful dashboard to manage ALL your Telegram channels and groups. No limit
 
 <img width="627" height="1280" alt="image" src="https://github.com/user-attachments/assets/d18f182b-2dbc-4628-afeb-2bff87dd9a04" />
 
+<img width="629" height="1280" alt="image" src="https://github.com/user-attachments/assets/a6bc3b79-7d17-43d6-af89-f8861e29bfc9" />
 
  ━━━━━━━━━━━━━━━━━━
 
