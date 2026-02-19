@@ -3,6 +3,7 @@ _Powerful AI-powered manager for Telegram channels and groups. No limits. No cod
 Best MiniApp for businesses, marketers, and agencies who want to grow rapidly on Telegram and effortlessly manage their Channels and Groups via a single Dashboard.
 The Ultimate Telegram Channel & Group Manager._
 
+[@InDMDevBots](https://t.me/InDMDevBots)
 
 <img width="627" height="1280" alt="image" src="https://github.com/user-attachments/assets/d18f182b-2dbc-4628-afeb-2bff87dd9a04" />
 
